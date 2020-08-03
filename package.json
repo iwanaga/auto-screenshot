@@ -16,5 +16,8 @@
     "url": "https://github.com/iwanaga/auto-screenshot/issues"
   },
   "private": true,
-  "homepage": "https://github.com/iwanaga/auto-screenshot#readme"
+  "homepage": "https://github.com/iwanaga/auto-screenshot#readme",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
 }

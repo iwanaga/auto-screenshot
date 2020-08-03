@@ -1,0 +1,20 @@
+{
+  "name": "auto-screenshot",
+  "version": "1.0.0",
+  "description": "using pupeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwanaga/auto-screenshot.git"
+  },
+  "author": "Yoshihiro Iwanaga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iwanaga/auto-screenshot/issues"
+  },
+  "private": true,
+  "homepage": "https://github.com/iwanaga/auto-screenshot#readme"
+}
